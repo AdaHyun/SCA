@@ -1,0 +1,5 @@
+最高相关位置（HW）：1074, corr=0.104769
+CPA metrics with raw data (byte 2)
+GE@990=129.800, SR@990=0.000
+TTD(mean/median)=470.0/470.0
+Recovered=YES

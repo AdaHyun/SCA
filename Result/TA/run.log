@@ -1,0 +1,13 @@
+[TA] Loading dataset: /root/SCA/DATA_analyasis/GithubGenerate/ResultDatabased/ASCAD_mini_8000points.h5
+[TA] Detected 255 unique labels, using HW_MODE=True
+[TA] Applying PCA for stability (retain 95% variance)...
+    -> reduced to 162 components
+[TA] Fitting 9 Gaussian templates...
+[TA] Computing log-likelihoods...
+[TA] Attack accuracy: 0.2480
+[TA] Evaluating key recovery metrics...
+  Trial 1/5
+  Trial 2/5
+  Trial 3/5
+  Trial 4/5
+  Trial 5/5

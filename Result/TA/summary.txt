@@ -1,0 +1,6 @@
+Attack accuracy: 0.248000
+#features: 162
+n_classes=9, USE_HW=True
+TA metrics with raw data (byte 2)
+GE@990=114.800, SR@990=0.000
+Recovered=NO
